@@ -29,9 +29,9 @@ const About = () => {
           <br />
           <br />
           Currently, I am searching for opportunities to bring my childhood
-          imagination to life. I want to learn new and existing technologies. I
-          want to lend myself to awesome projects. I want to work with inspiring
-          people. Most of all, I want to press more buttons!
+          imagination to life. I want to learn new and develop existing
+          technologies. I want to lend myself to awesome projects. I want to
+          work with inspiring people. Most of all, I want to press more buttons!
         </p>
       </section>
     </div>
