@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.785828aa.css",
+    "main.js": "/portfolio/static/js/main.3ed6bce5.js",
+    "static/js/787.71e672d5.chunk.js": "/portfolio/static/js/787.71e672d5.chunk.js",
+    "static/media/AboutPhoto.jpeg": "/portfolio/static/media/AboutPhoto.b24fb9e527e7a95b5fa6.jpeg",
+    "static/media/selenium-icon.svg": "/portfolio/static/media/selenium-icon.d615cb43f0ee90b1742feedbe42f35c5.svg",
+    "static/media/microsoft-excel-icon.svg": "/portfolio/static/media/microsoft-excel-icon.f7c48742d89834285a0baaadaee5da80.svg",
+    "static/media/csharp-icon.svg": "/portfolio/static/media/csharp-icon.341a6eb0e42e11d6aed94ea288b185f3.svg",
+    "static/media/cpp-icon.svg": "/portfolio/static/media/cpp-icon.306831efd6d72ee0f3b6c4143fac26e0.svg",
+    "index.html": "/portfolio/index.html",
+    "main.785828aa.css.map": "/portfolio/static/css/main.785828aa.css.map",
+    "main.3ed6bce5.js.map": "/portfolio/static/js/main.3ed6bce5.js.map",
+    "787.71e672d5.chunk.js.map": "/portfolio/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785828aa.css",
+    "static/js/main.3ed6bce5.js"
+  ]
+}
