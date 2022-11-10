@@ -11,7 +11,7 @@ const Navbar = () => {
       </section>
       <section className="nav-pages-section">
         <a href="/portfolio/about">ABOUT</a>
-        <a href="/portfolio/projects">PROJECTS</a>
+        <a href="/portfolio/projects/">PROJECTS</a>
         <a href="/portfolio/skills">SKILLS</a>
       </section>
       <section className="nav-social-section">
