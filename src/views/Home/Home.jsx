@@ -21,19 +21,19 @@ const Home = () => {
       <section className="buttons">
         <button
           className="about-button"
-          onClick={() => routeChange("/portfolio/about")}
+          onClick={() => routeChange("/about")}
         >
           About me
         </button>
         <button
           className="projects-button"
-          onClick={() => routeChange("/portfolio/projects")}
+          onClick={() => routeChange("/projects")}
         >
           Projects
         </button>
         <button
           className="skills-button"
-          onClick={() => routeChange("/portfolio/skills")}
+          onClick={() => routeChange("/skills")}
         >
           Skills
         </button>

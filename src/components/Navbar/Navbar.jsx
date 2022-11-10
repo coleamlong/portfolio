@@ -5,14 +5,14 @@ const Navbar = () => {
   return (
     <nav className="global-nav">
       <section className="nav-logo-section">
-        <a href="/portfolio/">
+        <a href="/">
           <i className="fa-sharp fa-solid fa-code" />
         </a>
       </section>
       <section className="nav-pages-section">
-        <a href="/portfolio/about">ABOUT</a>
-        <a href="/portfolio/projects/">PROJECTS</a>
-        <a href="/portfolio/skills">SKILLS</a>
+        <a href="/about">ABOUT</a>
+        <a href="/projects/">PROJECTS</a>
+        <a href="/skills">SKILLS</a>
       </section>
       <section className="nav-social-section">
         <a href="https://www.linkedin.com/in/coleamlong/">
@@ -26,7 +26,7 @@ const Navbar = () => {
         </a>
       </section>
       <section className="nav-contact-section">
-        <a href="/portfolio/contact">GET IN TOUCH</a>
+        <a href="/contact">GET IN TOUCH</a>
       </section>
     </nav>
   );
