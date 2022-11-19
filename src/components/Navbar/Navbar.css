@@ -1,56 +1,39 @@
-.nav-logo-section,
-.nav-pages-section {
-  flex-basis: calc(100% / 3);
-}
-
-.nav-social-section,
-.nav-contact-section {
-  flex-grow: 1;
-}
-
-.nav-logo-section.nav-logo-section {
-  justify-content: flex-start;
-}
-
-.nav-logo-section > a > i {
-  font-size: 2.5rem;
-}
-
 .global-nav {
   display: flex;
-  width: 100%;
-  border-bottom: 1px solid var(--border-color);
+  flex-direction: column;
+  text-align: right;
+  margin: auto 0 auto 10vw;
+  box-shadow: 10px 0 10px -10px black;
+  position: fixed;
 }
 
 .global-nav > section {
-  padding: 3rem 2rem;
   display: flex;
+  padding: 2rem 3rem;
+}
+
+.nav-link {
+  padding: 1rem;
+  text-decoration: none;
+  font-size: 3rem;
+  transition: text-shadow 100ms ease-in-out;
+}
+
+.nav-link:hover {
+  text-shadow: 0 0 2px black;
+}
+
+.nav-logo-section,
+.nav-pages-section {
+  flex-direction: column;
+}
+
+.nav-social-section {
+  flex-direction: row;
   gap: 1rem;
-  align-items: center;
-  justify-content: center;
 }
 
-.global-nav > section > a {
-  cursor: pointer;
-  transition: color 100ms;
-}
-
-.global-nav > section > a:hover {
-  color: var(--text-highlight-color);
-}
-
-.nav-social-section > a > i {
-  font-size: 1.5rem;
-}
-
-.nav-pages-section.nav-pages-section {
-  gap: 6rem;
-}
-
-.nav-social-section.nav-social-section {
-  gap: 3rem;
-}
-
-nav > section + section {
-  border-left: 1px solid var(--border-color);
+.logo {
+  display: flex;
+  flex-direction: column;
 }

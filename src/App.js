@@ -1,12 +1,21 @@
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
-import RouteSwitch from "./RouteSwitch";
+import About from "./views/About/About";
+import Projects from "./views/Projects/Projects";
+import Skills from "./views/Skills/Skills";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <RouteSwitch />
+      <div className="navbar-wrapper">
+        <Navbar />
+      </div>
+
+      <div className="content">
+        <About />
+        <Projects />
+        <Skills />
+      </div>
     </div>
   );
 }

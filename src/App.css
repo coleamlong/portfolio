@@ -1,19 +1,3 @@
-/*
-#606c38
-#283618
-#415a77
-#778da9
-#bc6c25
-*/
-
-* {
-  box-sizing: border-box;
-  --text-color: #dde5b6;
-  --text-highlight-color: white;
-  --background-color: #6c584c;
-  --border-color: #614f44;
-}
-
 h1,
 h2,
 h3,
@@ -21,7 +5,7 @@ a,
 p,
 span,
 button {
-  font-family: "Roboto", sans-serif;
+  font-family: "Times New Roman";
   color: var(--text-color);
   font-weight: 400;
   margin: 0px;
@@ -31,23 +15,15 @@ button {
   height: 100vh;
   width: 100vw;
   margin: 0;
-  background-color: var(--background-color);
+  background-color: white;
+  display: flex;
+}
+
+.navbar-wrapper {
+  position: sticky;
+}
+
+.content {
   display: flex;
   flex-direction: column;
-  margin: 0px;
-  overflow: hidden;
-}
-
-.card-container {
-  width: 100%;
-  height: 100%;
-  display: flex;
-}
-
-a {
-  text-decoration: none;
-}
-
-div + div {
-  border-left: 1px solid var(--border-color);
 }
