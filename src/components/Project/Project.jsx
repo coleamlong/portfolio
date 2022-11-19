@@ -5,7 +5,7 @@ const Project = (props) => {
   const { title, github, gitlab, website, image, description } = props.project;
   return (
     <div className="card">
-      <img className="bg-image" src={image} />
+      <img alt="" className="bg-image" src={image} />
       <h2 className="title">{title}</h2>
       <p className="description">{description}</p>
       <div className="link-container">
