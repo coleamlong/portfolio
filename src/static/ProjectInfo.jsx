@@ -5,12 +5,12 @@ import Jobs from "../assests/Jobs.jpg"
 const ProjectInfo = [
   {
     id: 0,
-    title: "RedditCrate",
-    github: "https://github.com/coleamlong/RedditCrate",
-    website: "https://coleamlong.github.io/RedditCrate",
-    image: Music,
+    title: "GeoJobs",
+    gitlab: "https://gitlab.com/sarthaksirotiya/cs373-idb",
+    website: "https://www.geojobs.me/",
+    image: Jobs,
     description:
-      "A full-stack web-application that automatically generates a Spotify playlist of unique music taken directly from the popular subreddit r/ListenToThis.",
+      "A four month long, full-stack, CI/CD project to build a database visualization app similar to the popular film database IMDB.",
   },
   {
     id: 1,
@@ -20,13 +20,14 @@ const ProjectInfo = [
     description: "A bespoke portfolio website built with React and CSS.",
   },
   {
+    
     id: 2,
-    title: "GeoJobs",
-    gitlab: "https://gitlab.com/sarthaksirotiya/cs373-idb",
-    website: "https://www.geojobs.me/",
-    image: Jobs,
+    title: "RedditCrate",
+    github: "https://github.com/coleamlong/RedditCrate",
+    website: "https://coleamlong.github.io/RedditCrate",
+    image: Music,
     description:
-      "A four month long, full-stack, CI/CD project to build a database visualization app similar to the popular film database IMDB.",
+      "A full-stack web-application that automatically generates a Spotify playlist of unique music taken directly from the popular subreddit r/ListenToThis.",
   },
 ];
 

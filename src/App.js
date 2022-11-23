@@ -13,7 +13,7 @@ import Header from './components/Header'
 
 const App = () => {
   return (
-    <Container>
+    <Container className='w-100'>
       <GlobalNavbar />
       <Container id="home">
       <Header />

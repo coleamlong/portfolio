@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Image } from 'react-bootstrap'
-import AboutPhoto from '../assests/AboutPhoto.jpeg'
+import AboutPhoto from '../assests/AboutPhoto.jpg'
 
 const About = () => {
   return (
