@@ -19,6 +19,11 @@ const LanguageInfo = [
     name: "JavaScript",
     rating: 7
   },
+  {
+    id: 4,
+    name: "SQL",
+    rating: 6
+  },
 ];
 
 const TechInfo = [
