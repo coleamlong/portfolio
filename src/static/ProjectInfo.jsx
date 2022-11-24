@@ -1,6 +1,6 @@
-import Music from "../assests/Music.jpg"
-import Portfolio from "../assests/Portfolio.jpg"
-import Jobs from "../assests/Jobs.jpg"
+import Music from "../assests/Music.jpg";
+import Portfolio from "../assests/Portfolio.jpg";
+import Jobs from "../assests/Jobs.jpg";
 
 const ProjectInfo = [
   {
@@ -20,7 +20,6 @@ const ProjectInfo = [
     description: "A bespoke portfolio website built with React and CSS.",
   },
   {
-    
     id: 2,
     title: "RedditCrate",
     github: "https://github.com/coleamlong/RedditCrate",
