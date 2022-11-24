@@ -5,10 +5,10 @@ import AboutPhoto from "../assests/AboutPhoto.jpg";
 const About = () => {
   return (
     <Container className="d-flex gap-4">
-      <Container className="">
+      <Container>
         <Image fluid rounded src={AboutPhoto} />
       </Container>
-      <Container className="">
+      <Container>
         <h1 className="text-left">About Me</h1>
         <p>
           My early childhood nickname was "Button Boy".

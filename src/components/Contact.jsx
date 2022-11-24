@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 
 const Contact = () => {
   return (
-    <Container className="p-4 my-4 d-flex gap-5">
+    <Container className="p-4 my-4 d-flex gap-5 justify-content-center">
       <a
         href="https://www.linkedin.com/in/coleamlong/"
         className="d-flex gap-2 text-decoration-none"
