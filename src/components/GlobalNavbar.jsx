@@ -1,7 +1,7 @@
 import { Nav, Navbar, Container } from "react-bootstrap";
 import { Link } from "react-scroll";
 
-function ColorSchemesExample() {
+function GlobalNavbar() {
     return (
         <Navbar
             className="shadow-sm"
@@ -57,4 +57,4 @@ function ColorSchemesExample() {
     );
 }
 
-export default ColorSchemesExample;
+export default GlobalNavbar;
