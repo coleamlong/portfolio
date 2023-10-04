@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/www.coleamlong.com/static/css/main.db798329.css",
+    "main.js": "/www.coleamlong.com/static/js/main.3964632e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/www.coleamlong.com/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AboutPhoto.jpg": "/www.coleamlong.com/static/media/AboutPhoto.b24fb9e527e7a95b5fa6.jpg",
+    "static/media/Portfolio.jpg": "/www.coleamlong.com/static/media/Portfolio.52394b52185f2dd4a190.jpg",
+    "static/media/Music.jpg": "/www.coleamlong.com/static/media/Music.8201b60578073666f141.jpg",
+    "static/media/Jobs.jpg": "/www.coleamlong.com/static/media/Jobs.9489a9dadd597cd8854d.jpg",
+    "index.html": "/www.coleamlong.com/index.html",
+    "main.db798329.css.map": "/www.coleamlong.com/static/css/main.db798329.css.map",
+    "main.3964632e.js.map": "/www.coleamlong.com/static/js/main.3964632e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/www.coleamlong.com/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.3964632e.js"
+  ]
+}
