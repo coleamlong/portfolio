@@ -9,7 +9,7 @@ const ProjectCard = (props) => {
     return (
         <Container className="text-start pb-5">
             <Card.Body>
-                <Image fluid rounded src={image} />
+                <Image className="border border-5" fluid rounded src={image} />
                 <Card.Title className="py-3">{title}</Card.Title>
 
                 <Card.Text>{description}</Card.Text>
