@@ -6,7 +6,7 @@ import Mixer from "../assests/Mixer.jpg";
 const ProjectInfo = [
     {
         id: 0,
-        title: "Spotify Song Suggestor",
+        title: "Audio Plugin Library",
         github: "https://github.com/coleamlong/GainSlider",
         image: Mixer,
         description:
