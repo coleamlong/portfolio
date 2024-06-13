@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "About Me",
+        "Content": {
+            "Model": "Magnify.glb"
+        }
+    },
+    {
+        "Name": "Projects",
+        "Content": {
+            "Model": "Laptop.glb"
+        }
+    },
+    {
+        "Name": "Resume",
+        "Content": {
+            "Model": "Papers.glb"
+        }
+    },
+    {
+        "Name": "DJing",
+        "Content": {
+            "Model": "Decks.glb"
+        }
+    }
+]
